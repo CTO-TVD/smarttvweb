@@ -1,0 +1,13 @@
+{
+  "buildAgent": "local",
+  "buildDate": "1970-01-01T00:00:00.000Z",
+  "buildIsNightly": false,
+
+  "branch": "master",
+  "commit": "unknown",
+
+  "majorVersion": "1.2.3",
+  "buildVersion": "4747",
+  
+  "packageDate": "1970-01-01T00:00:00.000Z"
+}
