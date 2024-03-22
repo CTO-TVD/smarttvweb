@@ -1,0 +1,11 @@
+{
+  "id": "de.telekom.magentatv",
+  "version": "1.2.3",
+  "vendor": "Telekom",
+  "type": "web",
+  "main": "index.html",
+  "title": "MagentaTV",
+  "icon": "iconLG.png",
+  "largeIcon": "largeIconLG.png",
+  "disableBackHistoryAPI": true
+}
